@@ -1,5 +1,5 @@
 import React from "react";
-import bateman from "../../images/bateman-img.jpg";
+import bateman from "../../assets/images/bateman-img.jpg";
 
 export default function About() {
   return (
