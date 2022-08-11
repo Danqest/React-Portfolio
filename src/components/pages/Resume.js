@@ -1,22 +1,35 @@
-import React from 'react';
+import React from "react";
 
 export default function Resume() {
   return (
-    <div>
+    <div className="text-center">
       <h1>Resume Page</h1>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-      </p>
+      <a
+        href="./assets/documents/resume-cbrooks.pdf"
+        download="resume-cbrooks"
+        target="_blank"
+      >
+        Download My Resume
+      </a>
+
+      <h3 className="mt-3">Front-End Projects:</h3>
+      <p>HTML</p>
+      <p>CSS</p>
+      <p>Javascript</p>
+      <p>jQuery</p>
+      <p>Responsive Design </p>
+      <p>React</p>
+      <p>Bootstrap</p>
+      <p>HTML</p>
+
+      <h3 className="mt-3">Back-End Projects:</h3>
+      <p>APIs</p>
+      <p>NodeJS</p>
+      <p>ExpressJS</p>
+      <p>MySQL, Sequelize</p>
+      <p>MongoDB, Mongoose</p>
+      <p>REST</p>
+      <p>GraphQL</p>
     </div>
   );
 }
