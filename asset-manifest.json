@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.84487ea8.css",
+    "main.js": "/React-Portfolio/static/js/main.a035bc39.js",
+    "static/media/stock-alert-tracker.png": "/React-Portfolio/static/media/stock-alert-tracker.2af597e2f2f72790f0f7.png",
+    "static/media/testchart.png": "/React-Portfolio/static/media/testchart.68f81508acdd46f0d424.png",
+    "static/media/bateman-img.jpg": "/React-Portfolio/static/media/bateman-img.30cc9b5ea0d46344670c.jpg",
+    "static/media/weather-dashboard.png": "/React-Portfolio/static/media/weather-dashboard.0e18dac1f5cf37376bb1.png",
+    "static/media/screenshot-team.png": "/React-Portfolio/static/media/screenshot-team.de18896aebe7ed7a2c73.png",
+    "static/media/password-generator.png": "/React-Portfolio/static/media/password-generator.8ac31f354079c7e38d75.png",
+    "static/media/notes-page.png": "/React-Portfolio/static/media/notes-page.b31b696660e7d2e55dbb.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.84487ea8.css.map": "/React-Portfolio/static/css/main.84487ea8.css.map",
+    "main.a035bc39.js.map": "/React-Portfolio/static/js/main.a035bc39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.a035bc39.js"
+  ]
+}
